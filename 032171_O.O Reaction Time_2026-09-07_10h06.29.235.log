@@ -1,0 +1,84 @@
+6.0374 	INFO 	Loaded monitor calibration from ['2026_08_10 01:24']
+6.1727 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1470, 956]. Using actual size
+6.3329 	INFO 	Using renderer 'Apple M2' for graphics
+6.3329 	INFO 	OpenGL version supported by driver is 2..
+6.4095 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x16da50a30>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x16da50a90>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x16db0ada0>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(0.0), np.float64(0.0)], screen=0, size=array([2940, 1912]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.4095 	EXP 	window1: backgroundImage = ''
+6.4095 	EXP 	window1: backgroundFit = 'none'
+6.7250 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.7250 	EXP 	window1: recordFrameIntervals = False
+6.9436 	EXP 	window1: recordFrameIntervals = True
+8.6102 	EXP 	window1: recordFrameIntervals = False
+8.6103 	EXP 	Screen (0) actual frame rate measured at 60.00Hz
+9.8935 	INFO 	keyboard.Keyboard is using ptb backend.
+9.8936 	EXP 	O.O Reaction Time: status = STARTED
+9.9458 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.9512 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.9519 	EXP 	Created tarrget = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='tarrget', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([100., 100.]), units='pix', vertices=ndarray(...), win=Window(...))
+9.9545 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thank you!', units='height', win=Window(...), wrapWidth=1)
+0.2392 	INFO 	Keyboard events cleared
+0.2391 	EXP 	text: autoDraw = True
+3.7854 	EXP 	Device response: <KeyPress from None: t=3.7688174579525366, value=space, duration=None>
+3.7864 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+3.8138 	DATA 	Keypress: space
+3.8172 	EXP 	text: autoDraw = False
+3.8172 	EXP 	fixation: autoDraw = True
+3.8894 	EXP 	Device response: <KeyPress from None: t=3.7688174579525366, value=space, duration=0.10592837503645569>
+4.3057 	INFO 	Keyboard events cleared
+4.3057 	EXP 	fixation: autoDraw = False
+4.3057 	EXP 	tarrget: autoDraw = True
+5.3358 	DATA 	Keypress: y
+5.3393 	EXP 	Device response: <KeyPress from None: t=5.3313406659290195, value=y, duration=None>
+5.3394 	EXP 	New trial (rep=1, index=0): <Trial 1 (0 in rep 1) data={'thisN': 1, 'thisTrialN': 0, 'thisRepN': 1}>
+5.3557 	EXP 	fixation: autoDraw = False
+5.3557 	EXP 	tarrget: autoDraw = False
+5.3557 	EXP 	fixation: autoDraw = True
+5.4559 	EXP 	Device response: <KeyPress from None: t=5.3313406659290195, value=y, duration=0.11233741696923971>
+5.8390 	INFO 	Keyboard events cleared
+5.8389 	EXP 	fixation: autoDraw = False
+5.8389 	EXP 	tarrget: autoDraw = True
+6.2559 	EXP 	Device response: <KeyPress from None: t=6.252249040990137, value=y, duration=None>
+6.2560 	EXP 	New trial (rep=2, index=0): <Trial 2 (0 in rep 2) data={'thisN': 2, 'thisTrialN': 0, 'thisRepN': 2}>
+6.2646 	DATA 	Keypress: y
+6.2723 	EXP 	fixation: autoDraw = False
+6.2723 	EXP 	tarrget: autoDraw = False
+6.2723 	EXP 	fixation: autoDraw = True
+6.3892 	EXP 	Device response: <KeyPress from None: t=6.252249040990137, value=y, duration=0.12028599996119738>
+6.7557 	INFO 	Keyboard events cleared
+6.7557 	EXP 	fixation: autoDraw = False
+6.7557 	EXP 	tarrget: autoDraw = True
+7.0393 	EXP 	Device response: <KeyPress from None: t=7.035313415923156, value=y, duration=None>
+7.0394 	EXP 	New trial (rep=3, index=0): <Trial 3 (0 in rep 3) data={'thisN': 3, 'thisTrialN': 0, 'thisRepN': 3}>
+7.0408 	DATA 	Keypress: y
+7.0557 	EXP 	fixation: autoDraw = False
+7.0557 	EXP 	tarrget: autoDraw = False
+7.0557 	EXP 	fixation: autoDraw = True
+7.1393 	EXP 	Device response: <KeyPress from None: t=7.035313415923156, value=y, duration=0.09235320799052715>
+7.5390 	INFO 	Keyboard events cleared
+7.5390 	EXP 	fixation: autoDraw = False
+7.5390 	EXP 	tarrget: autoDraw = True
+7.7804 	DATA 	Keypress: y
+7.7892 	EXP 	Device response: <KeyPress from None: t=7.776280040969141, value=y, duration=None>
+7.7893 	EXP 	New trial (rep=4, index=0): <Trial 4 (0 in rep 4) data={'thisN': 4, 'thisTrialN': 0, 'thisRepN': 4}>
+7.8056 	EXP 	fixation: autoDraw = False
+7.8056 	EXP 	tarrget: autoDraw = False
+7.8056 	EXP 	fixation: autoDraw = True
+7.8892 	EXP 	Device response: <KeyPress from None: t=7.776280040969141, value=y, duration=0.11230862501543015>
+8.2890 	INFO 	Keyboard events cleared
+8.2890 	EXP 	fixation: autoDraw = False
+8.2890 	EXP 	tarrget: autoDraw = True
+8.5612 	DATA 	Keypress: y
+8.5726 	EXP 	Device response: <KeyPress from None: t=8.557164540980011, value=y, duration=None>
+8.5890 	EXP 	fixation: autoDraw = False
+8.5890 	EXP 	tarrget: autoDraw = False
+8.5890 	EXP 	text_2: autoDraw = True
+8.6892 	EXP 	Device response: <KeyPress from None: t=8.557164540980011, value=y, duration=0.12046658294275403>
+10.2324 	DATA 	Keypress: space
+10.2393 	EXP 	Device response: <KeyPress from None: t=10.229212540900335, value=space, duration=None>
+10.3393 	EXP 	Device response: <KeyPress from None: t=10.229212540900335, value=space, duration=0.10902275005355477>
+10.5723 	EXP 	text_2: autoDraw = False
+10.5723 	EXP 	text_2: autoDraw = False
+10.5724 	EXP 	O.O Reaction Time: status = STOPPED
+10.5744 	INFO 	saved data to '/Users/tanishatalati/Desktop/data/032171_O.O Reaction Time_2026-09-07_10h06.29.235.csv'
+10.5758 	INFO 	saved data to /Users/tanishatalati/Desktop/data/032171_O.O Reaction Time_2026-09-07_10h06.29.235.psydat
+10.7038 	INFO 	Stopping keyboard key buffers.
