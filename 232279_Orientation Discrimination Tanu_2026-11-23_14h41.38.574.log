@@ -1,0 +1,141 @@
+12.2527 	WARNING 	Trailing spaces were removed from the data file path 'C:\Users\DELL\Downloads\PSYCHOPY DATA TANU\data/232279_Orientation Discrimination Tanu_2026-11-23_14h41.38.574', it will be saved as 'C:\Users\DELL\Downloads\PSYCHOPY DATA TANU\data\232279_Orientation Discrimination Tanu_2026-11-23_14h41.38.574'.
+12.2555 	INFO 	Loaded monitor calibration from ['2026_11_23 03:29']
+12.2662 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1200]. Using actual size
+12.7973 	INFO 	Using renderer 'Intel(R) UHD Graphics' for graphics
+12.7973 	INFO 	OpenGL version supported by driver is 4..
+12.8783 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000214C39D5240>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000214C39D51B0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000214BA55A140>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(0.0), np.float64(0.0)], screen=0, size=array([1920, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+12.8784 	EXP 	window1: backgroundImage = ''
+12.8784 	EXP 	window1: backgroundFit = 'none'
+13.3508 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+13.3509 	EXP 	window1: recordFrameIntervals = False
+13.4875 	EXP 	window1: recordFrameIntervals = True
+15.1554 	EXP 	window1: recordFrameIntervals = False
+15.1555 	EXP 	Screen (0) actual frame rate measured at 59.83Hz
+15.2573 	INFO 	keyboard.Keyboard is using ptb backend.
+15.2574 	EXP 	Orientation Discrimination Tanu: status = STARTED
+15.2628 	EXP 	Created Fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='Fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+15.2817 	EXP 	Created grating = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, anchor='center', autoDraw=False, autoLog=True, blendmode='avg', color=array([0.3, 0.3, 0.3]), colorSpace='rgb', contrast=0.3, depth=-1.0, draggable=False, interpolate=True, mask='gauss', maskParams=None, name='grating', opacity=1, ori=1.0, phase=array([0., 0.]), pos=array([0., 0.]), rgbPedestal=array([0., 0., 0.]), sf=array([5., 5.]), size=array([0.2, 0.2]), tex='sin', texRes=128.0, units='height', win=Window(...))
+0.0065 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0099 	EXP 	grating: ori = np.float64(0.0)
+0.0099 	EXP 	Fixation: autoDraw = True
+1.0067 	INFO 	Keyboard events cleared
+1.0062 	EXP 	grating: autoDraw = True
+1.0062 	EXP 	grating: tex = 'sin'
+1.0228 	EXP 	Fixation: autoDraw = False
+1.3058 	EXP 	grating: autoDraw = False
+2.6478 	EXP 	Device response: <KeyPress from None: t=2.6359833999886177, value=up, duration=None>
+2.6481 	EXP 	New trial (rep=1, index=0): <Trial 1 (0 in rep 1) data={'thisN': 1, 'thisTrialN': 0, 'thisRepN': 1}>
+2.6502 	DATA 	Keypress: up
+2.6556 	EXP 	Fixation: autoDraw = False
+2.6556 	EXP 	grating: autoDraw = False
+2.6556 	EXP 	grating: ori = np.float64(-3.0)
+2.6556 	EXP 	Fixation: autoDraw = True
+2.7228 	EXP 	Device response: <KeyPress from None: t=2.6359833999886177, value=up, duration=0.0698580999742262>
+3.6559 	INFO 	Keyboard events cleared
+3.6557 	EXP 	Fixation: autoDraw = False
+3.6557 	EXP 	grating: autoDraw = True
+3.9559 	EXP 	grating: autoDraw = False
+5.0414 	EXP 	Device response: <KeyPress from None: t=5.032312700001057, value=down, duration=None>
+5.0419 	EXP 	New trial (rep=2, index=0): <Trial 2 (0 in rep 2) data={'thisN': 2, 'thisTrialN': 0, 'thisRepN': 2}>
+5.0435 	DATA 	Keypress: down
+5.0558 	EXP 	Fixation: autoDraw = False
+5.0558 	EXP 	grating: autoDraw = False
+5.0558 	EXP 	grating: ori = np.float64(0.0)
+5.0558 	EXP 	Fixation: autoDraw = True
+5.1735 	EXP 	Device response: <KeyPress from None: t=5.032312700001057, value=down, duration=0.12591649999376386>
+6.0563 	INFO 	Keyboard events cleared
+6.0560 	EXP 	Fixation: autoDraw = False
+6.0560 	EXP 	grating: autoDraw = True
+6.3561 	EXP 	grating: autoDraw = False
+7.5727 	EXP 	Device response: <KeyPress from None: t=7.55730369995581, value=down, duration=None>
+7.5731 	EXP 	New trial (rep=3, index=0): <Trial 3 (0 in rep 3) data={'thisN': 3, 'thisTrialN': 0, 'thisRepN': 3}>
+7.5750 	DATA 	Keypress: down
+7.5891 	EXP 	Fixation: autoDraw = False
+7.5891 	EXP 	grating: autoDraw = False
+7.5891 	EXP 	grating: ori = np.float64(-1.0)
+7.5891 	EXP 	Fixation: autoDraw = True
+7.6724 	EXP 	Device response: <KeyPress from None: t=7.55730369995581, value=down, duration=0.10916470002848655>
+8.5729 	INFO 	Keyboard events cleared
+8.5727 	EXP 	grating: autoDraw = True
+8.5894 	EXP 	Fixation: autoDraw = False
+8.8723 	EXP 	grating: autoDraw = False
+9.1728 	EXP 	Device response: <KeyPress from None: t=9.169612199999392, value=up, duration=None>
+9.1732 	EXP 	New trial (rep=4, index=0): <Trial 4 (0 in rep 4) data={'thisN': 4, 'thisTrialN': 0, 'thisRepN': 4}>
+9.1747 	DATA 	Keypress: up
+9.1892 	EXP 	Fixation: autoDraw = False
+9.1892 	EXP 	grating: autoDraw = False
+9.1892 	EXP 	grating: ori = np.float64(0.0)
+9.1892 	EXP 	Fixation: autoDraw = True
+9.3561 	EXP 	Device response: <KeyPress from None: t=9.169612199999392, value=up, duration=0.17469590000109747>
+10.1731 	INFO 	Keyboard events cleared
+10.1728 	EXP 	grating: autoDraw = True
+10.1896 	EXP 	Fixation: autoDraw = False
+10.4726 	EXP 	grating: autoDraw = False
+11.3732 	EXP 	Device response: <KeyPress from None: t=11.371197199972812, value=down, duration=None>
+11.3736 	EXP 	New trial (rep=5, index=0): <Trial 5 (0 in rep 5) data={'thisN': 5, 'thisTrialN': 0, 'thisRepN': 5}>
+11.3752 	DATA 	Keypress: down
+11.3894 	EXP 	Fixation: autoDraw = False
+11.3894 	EXP 	grating: autoDraw = False
+11.3894 	EXP 	grating: ori = np.float64(-5.0)
+11.3894 	EXP 	Fixation: autoDraw = True
+11.5401 	EXP 	Device response: <KeyPress from None: t=11.371197199972812, value=down, duration=0.15694680000888184>
+12.3728 	INFO 	Keyboard events cleared
+12.3726 	EXP 	grating: autoDraw = True
+12.3893 	EXP 	Fixation: autoDraw = False
+12.6724 	EXP 	grating: autoDraw = False
+13.1903 	EXP 	Device response: <KeyPress from None: t=13.184341199987102, value=down, duration=None>
+13.1908 	EXP 	New trial (rep=6, index=0): <Trial 6 (0 in rep 6) data={'thisN': 6, 'thisTrialN': 0, 'thisRepN': 6}>
+13.1926 	DATA 	Keypress: down
+13.2061 	EXP 	Fixation: autoDraw = False
+13.2061 	EXP 	grating: autoDraw = False
+13.2061 	EXP 	grating: ori = np.float64(0.0)
+13.2061 	EXP 	Fixation: autoDraw = True
+13.3399 	EXP 	Device response: <KeyPress from None: t=13.184341199987102, value=down, duration=0.14041459996951744>
+14.2051 	INFO 	Keyboard events cleared
+14.2050 	EXP 	grating: autoDraw = True
+14.2218 	EXP 	Fixation: autoDraw = False
+14.5060 	EXP 	grating: autoDraw = False
+15.3910 	DATA 	Keypress: down
+15.4067 	EXP 	Device response: <KeyPress from None: t=15.3896883999696, value=down, duration=None>
+15.4073 	EXP 	New trial (rep=7, index=0): <Trial 7 (0 in rep 7) data={'thisN': 7, 'thisTrialN': 0, 'thisRepN': 7}>
+15.4222 	EXP 	Fixation: autoDraw = False
+15.4222 	EXP 	grating: autoDraw = False
+15.4222 	EXP 	grating: ori = np.float64(0.0)
+15.4222 	EXP 	Fixation: autoDraw = True
+15.5564 	EXP 	Device response: <KeyPress from None: t=15.3896883999696, value=down, duration=0.1546131999930367>
+16.4231 	INFO 	Keyboard events cleared
+16.4229 	EXP 	Fixation: autoDraw = False
+16.4229 	EXP 	grating: autoDraw = True
+16.7230 	EXP 	grating: autoDraw = False
+18.1238 	EXP 	Device response: <KeyPress from None: t=18.11077689996455, value=up, duration=None>
+18.1244 	EXP 	New trial (rep=8, index=0): <Trial 8 (0 in rep 8) data={'thisN': 8, 'thisTrialN': 0, 'thisRepN': 8}>
+18.1261 	DATA 	Keypress: up
+18.1395 	EXP 	Fixation: autoDraw = False
+18.1395 	EXP 	grating: autoDraw = False
+18.1395 	EXP 	grating: ori = np.float64(0.0)
+18.1395 	EXP 	Fixation: autoDraw = True
+18.2404 	EXP 	Device response: <KeyPress from None: t=18.11077689996455, value=up, duration=0.12902600003872067>
+19.1394 	INFO 	Keyboard events cleared
+19.1392 	EXP 	Fixation: autoDraw = False
+19.1392 	EXP 	grating: autoDraw = True
+19.4394 	EXP 	grating: autoDraw = False
+19.7899 	EXP 	Device response: <KeyPress from None: t=19.777190599997994, value=up, duration=None>
+19.7903 	EXP 	New trial (rep=9, index=0): <Trial 9 (0 in rep 9) data={'thisN': 9, 'thisTrialN': 0, 'thisRepN': 9}>
+19.7919 	DATA 	Keypress: up
+19.8062 	EXP 	Fixation: autoDraw = False
+19.8062 	EXP 	grating: autoDraw = False
+19.8062 	EXP 	grating: ori = np.float64(0.0)
+19.8062 	EXP 	Fixation: autoDraw = True
+19.9062 	EXP 	Device response: <KeyPress from None: t=19.777190599997994, value=up, duration=0.12661469995509833>
+20.7892 	INFO 	Keyboard events cleared
+20.7890 	EXP 	grating: autoDraw = True
+20.8062 	EXP 	Fixation: autoDraw = False
+21.0895 	EXP 	grating: autoDraw = False
+21.5062 	EXP 	Device response: <KeyPress from None: t=21.50309529999504, value=up, duration=None>
+21.5075 	DATA 	Keypress: up
+21.5231 	EXP 	Fixation: autoDraw = False
+21.5231 	EXP 	grating: autoDraw = False
+21.5234 	EXP 	Orientation Discrimination Tanu: status = STOPPED
+21.5356 	INFO 	saved data to 'C:\\Users\\DELL\\Downloads\\PSYCHOPY DATA TANU\\data\\232279_Orientation Discrimination Tanu_2026-11-23_14h41.38.574.csv'
+21.5401 	INFO 	saved data to C:\Users\DELL\Downloads\PSYCHOPY DATA TANU\data\232279_Orientation Discrimination Tanu_2026-11-23_14h41.38.574.psydat
+22.1968 	INFO 	Stopping keyboard key buffers.
